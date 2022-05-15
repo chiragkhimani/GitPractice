@@ -6,5 +6,7 @@ public class GitPractice {
 		System.out.println("From Chirag Again");
 		System.out.println("From Aziz PC");
 		System.out.println("Hello From Chirag");
+		System.out.println("Hello class");
+	
 	}
 }
